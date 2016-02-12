@@ -1,0 +1,9 @@
+---
+title: “The Future!”
+layout: post
+date: 2015-02-13 
+tag: markdown
+
+---
+
+This is what I’ll write in the future
