@@ -7,8 +7,8 @@ permalink: /about/index.html
 img { width: 50%; margin: 0 auto; display: block; }
 </style>
 
-picture: 'assets/images/AboutPic.jpg'
-![Profile Image](assets/images/AboutPic.jpg)
+
+![assets/images/AboutPic.jpg]
 
 <p>Hello! My name is Curtis, the aspiring Zoologist and Evolutionary Biologist. I am currently a senior attending the University of Vermont, graduating in May 2016 with a B.S. in Zoology and a minor in Chemistry. During my undergraduate career, I have been conducting research in Dr. Helms-Cahan's laboratory with the guidance of Ph.D candidate, Andrew Nguyen. We are conducting research on how the common woodland ant <i>Aphaenogaster</i> will be impacted by warmer temperatures as part of a long-term forest warming experiment in Harvard Forest, Massachusetts and Duke Forest, North Carolina. To better assess how <i>Aphaenogaster</i> will react to climate change, we propose measuring the gene expression levels of heat-shock proteins (Hsps) to serve as a proxy for sub-lethal stress.</p>
 
