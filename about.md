@@ -7,7 +7,7 @@ permalink: /about/index.html
 img { width: 50%; margin: 0 auto; display: block; }
 </style>
 
-![AboutPic]({{assets/images/AboutPic.jpg}})
+![AboutPic.jpg]({{assets/images/AboutPic.jpg}})
 ![AboutPic.jpg]
 
 ![assets/images/AboutPic.jpg]
