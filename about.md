@@ -7,6 +7,7 @@ permalink: /about/index.html
 img { width: 50%; margin: 0 auto; display: block; }
 </style>
 
+![alt text](AboutPic.jpg)
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Hello! My name is Curtis, the aspiring Zoologist and Evolutionary Biologist. I am currently a senior attending the University of Vermont, graduating in May 2016 with a B.S. in Zoology and a minor in Chemistry. During my undergraduate career, I have been conducting research in <a href="http://shelmscahan.github.io/">Dr. Helms-Cahan's</a> laboratory with the guidance of Ph.D candidate, <a href="https://adnguyen.github.io/">Andrew Nguyen.</a> We are conducting research on how the common woodland ant <i>Aphaenogaster</i> will be impacted by warmer temperatures as part of a long-term forest warming experiment in Harvard Forest, Massachusetts and Duke Forest, North Carolina. To better assess how <i>Aphaenogaster</i> will react to climate change, we propose measuring the gene expression levels of heat-shock proteins (Hsps) to serve as a proxy for sub-lethal stress.</p>
@@ -22,14 +23,14 @@ img { width: 50%; margin: 0 auto; display: block; }
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
+	<li>RNA Extraction and Isolation</li>
+	<li>cDNA Conversions</li>
+	<li>Polymerase Chain Reactions</li>
+	<li>Microsoft</li>
 	<li>Git</li>
 	<li>R Markdown</li>
 	
 </ul>
 
-<h2>Projects</h2>
 
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
 </ul>
