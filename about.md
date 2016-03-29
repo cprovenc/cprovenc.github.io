@@ -21,19 +21,19 @@ img { width: 50%; margin: 0 auto; display: block; }
  Ecology, genetics, and evolution have been academic interests of mine throughout my academic career. I plan to purse higher education and research how certain traits have evolved to interact with an organisms environment and how these traits will function or, if possible, adapt, in response to a changing world. 
 </p>
 
-<p>Through my research I have gained ecological knowledge of how species may respond to environmental cues and molecular techniques to approach such questions. Also, running my own data analyses have given me basic computational skills in R that I hope to expand by performing further research. Now, I hope to extend my training to learn how different environmental conditions impact marine ecosystems and their invertebrates? behaviors by identifying specific genes associated with traits and tracing how they arose through phylogenetic analyses and transcriptome sequencing experiments.</p>
+<p>Through my research I have gained ecological knowledge of how species may respond to environmental cues and molecular techniques to approach such questions. Also, running my own data analyses have given me basic computational skills in R that I hope to expand by performing further research. Now, I hope to extend my training to learn how different environmental conditions impact  organismal behaviors in marine ecosystems by identifying specific genes associated with traits and tracing how they arose through phylogenetic analyses and transcriptome sequencing experiments.</p>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
 	<li>RNA Extraction and Isolation</li>
 	<li>cDNA Conversions</li>
-	<li>Polymerase Chain Reactions</li>
+	<li>qPCR</li>
 	<li>Microsoft</li>
-	<li>Git</li>
+	<li>Github</li>
 	<li>R Markdown</li>
 	
 </ul>
 
 
-</ul>
+
